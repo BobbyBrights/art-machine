@@ -8,3 +8,27 @@ body, html, #react-app {
   bottom: 0;
   left: 0;
 }
+@font-face {
+  font-family: 'Avenir Next LT Pro Heavy';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Heavy'), url('/fonts/AvenirNextLTPro-Heavy.woff') format('woff');
+}
+@font-face {
+  font-family: 'Avenir Next LT Pro Ultra Light';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Ultra Light'), url('/fonts/AvenirNextLTPro-UltLt.woff') format('woff');
+}
+@font-face {
+  font-family: 'Avenir Next LT Pro Heavy Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Heavy Italic'), url('/fonts/AvenirNextLTPro-HeavyIt.woff') format('woff');
+}
+@font-face {
+  font-family: 'Avenir Next LT Pro Ultra Light Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Ultra Light Italic'), url('/fonts/AvenirNextLTPro-UltLtIt.woff') format('woff');
+}
